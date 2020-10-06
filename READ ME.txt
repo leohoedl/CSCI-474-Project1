@@ -1,0 +1,3 @@
+All  of the data files are included in the zip file as well as the summary and main source code. All simulations were performed on lab01.cs.ndsu.nodak.edu
+
+When simulating, make sure all the data files are stored in the same directory as Source1.cpp. When running simply select the number for the file. As long as they are in the same directory the simulation should continue. 
